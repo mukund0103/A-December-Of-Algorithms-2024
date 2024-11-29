@@ -10,7 +10,6 @@ Welcome to A December of Algorithms 2024.
 Building on the success and enthusiasm of previous years, we’re excited to bring you a fresh selection of algorithms to explore and implement this December!
 
 Each Day, Each Algorithm ;)
-
 Finish them all to get a certificate :)
 
 **Send a pull request only after completing all 31 algorithms.**
