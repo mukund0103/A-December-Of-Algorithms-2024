@@ -28,7 +28,7 @@ Check out our FAQ for more information.
 - [**December 1 - The Wave**](#december-1---the-vanishing-number)
 - [**FAQ**](#faq)
 
-# FAQ
+
 ## Algorithms
 
  ### December 1 - The Vanishing Number
@@ -65,6 +65,7 @@ Input Format:
 N = 3, array[] = {1,3}
 Result: 2
 ```
+# FAQ
 #### Who can join the Challenge?
 
 Anyone who is passionate about coding and can dedicate a little time a day for the challenge for the next 31 days.
