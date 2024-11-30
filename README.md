@@ -34,10 +34,12 @@ Check out our FAQ for more information.
  ### December 1 - The Vanishing Number
 
    #### Problem Statement
+```
 Imagine a race event with N participants, each having a unique bib number from 1 to N.
 After the race, the event organizers collect the bib numbers of all participants who showed
 up. However, one participant didn’t show up, and their bib number is missing. The task is to
 find out which bib number is missing in order to identify the participant who was absent.
+```
 ```
 Given an integer N and an array of size N-1 containing N-1 numbers between 1 to N. Find
 the number(between 1 to N), that is not present in the given array.
