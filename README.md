@@ -25,11 +25,43 @@ All you need to do is fork this repository, implement all 31 algorithms and send
 Check out our FAQ for more information.
 
 ## Index
-
+- [**December 1 - The Wave**](#december-1---the-vanishing-number)
 - [**FAQ**](#faq)
 
 # FAQ
+## Algorithms
 
+ ### December 1 - The Vanishing Number
+
+   #### Problem Statement
+Imagine a race event with N participants, each having a unique bib number from 1 to N.
+After the race, the event organizers collect the bib numbers of all participants who showed
+up. However, one participant didn’t show up, and their bib number is missing. The task is to
+find out which bib number is missing in order to identify the participant who was absent.
+
+Given an integer N and an array of size N-1 containing N-1 numbers between 1 to N. Find
+the number(between 1 to N), that is not present in the given array.
+![image](https://github.com/user-attachments/assets/177fbe2f-9248-481b-adb6-61dfcea59582)
+
+
+Example 1:
+```
+Input Format:
+N = 5, array[] = {1,2,4,5}
+Result: 3
+```
+```
+Explanation:
+In the given array, number 3 is missing. So, 3 is the answer.
+```
+
+
+Example 2:
+```
+Input Format:
+N = 3, array[] = {1,3}
+Result: 2
+```
 #### Who can join the Challenge?
 
 Anyone who is passionate about coding and can dedicate a little time a day for the challenge for the next 31 days.
