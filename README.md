@@ -74,7 +74,8 @@ Result: 2
 Imagine you're at a music concert, surrounded by thousands of fans.
 As the music plays, the crowd begins to move in a rhythmic pattern, rising and falling like a wave.
 The energy is contagious, and everyone follows the same wave-like motion.
-Now, think of the crowd as an unsorted array of integers, and your job is to arrange them in such a way that the heights of the fans rise and fall, just like the waves at the concert.
+Now, think of the crowd as an unsorted array of integers, and your job is to arrange them in such a way that
+the heights of the fans rise and fall, just like the waves at the concert.
 Your task is to organize the array in a similar wave-like fashion!
 ```
 
@@ -98,7 +99,10 @@ arr[] = {10, 5, 6, 2, 20, 3, 100, 80}
 ```
 ```
 Explanation:
-Here you can see {10, 5, 6, 2, 20, 3, 100, 80}. The first element is larger than the second, and the same pattern repeats again. Large element – small element – large element – small element, and so on. It can also be in the opposite pattern (small element – large element – small element – large element). All you need to maintain is the up-down fashion, which represents a wave. There can be multiple answers.
+Here you can see {10, 5, 6, 2, 20, 3, 100, 80}. The first element is larger than the second, and the same pattern repeats again.
+Large element – small element – large element – small element, and so on.
+It can also be in the opposite pattern (small element – large element – small element – large element).
+All you need to maintain is the up-down fashion, which represents a wave. There can be multiple answers.
 
 ```
 
@@ -114,7 +118,8 @@ arr[] = {2, 1, 4, 3, 6, 5}
 ```
 ```
 Explanation:
-In this case, we swap adjacent elements to form a wave-like array. {2, 1, 4, 3, 6, 5} satisfies the condition where elements are alternately large and small.
+In this case, we swap adjacent elements to form a wave-like array.
+{2, 1, 4, 3, 6, 5} satisfies the condition where elements are alternately large and small.
 
 ```
 # FAQ
