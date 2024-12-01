@@ -71,7 +71,11 @@ Result: 2
 
    #### Problem Statement
 ```
-Imagine you're at a music concert, surrounded by thousands of fans. As the music plays, the crowd begins to move in a rhythmic pattern, rising and falling like a wave. The energy is contagious, and everyone follows the same wave-like motion. Now, think of the crowd as an unsorted array of integers, and your job is to arrange them in such a way that the heights of the fans rise and fall, just like the waves at the concert. Your task is to organize the array in a similar wave-like fashion!
+Imagine you're at a music concert, surrounded by thousands of fans.
+As the music plays, the crowd begins to move in a rhythmic pattern, rising and falling like a wave.
+The energy is contagious, and everyone follows the same wave-like motion.
+Now, think of the crowd as an unsorted array of integers, and your job is to arrange them in such a way that the heights of the fans rise and fall, just like the waves at the concert.
+Your task is to organize the array in a similar wave-like fashion!
 ```
 
 ```
