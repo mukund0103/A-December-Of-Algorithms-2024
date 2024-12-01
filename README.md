@@ -25,14 +25,14 @@ All you need to do is fork this repository, implement all 31 algorithms and send
 Check out our FAQ for more information.
 
 ## Index
-- [**December 01 - The Vanishing Number**](#december-1---the-vanishing-number)
-- [**December 02 - The Wave Sort Challenge**](#december-1---the-wave-sort-challenge)
+- [**December 01 - The Vanishing Number**](#december-01---the-vanishing-number)
+- [**December 02 - The Wave Sort Challenge**](#december-02---the-wave-sort-challenge)
 - [**FAQ**](#faq)
 
 
 ## Algorithms
 
- ### December 1 - The Vanishing Number
+ ### December 01 - The Vanishing Number
 
    #### Problem Statement
 ```
@@ -67,7 +67,7 @@ N = 3, array[] = {1,3}
 Result: 2
 ```
 
-### December 2 - The Wave Sort Challenge
+### December 02 - The Wave Sort Challenge
 
    #### Problem Statement
 ```
